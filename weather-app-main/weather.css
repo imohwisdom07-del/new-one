@@ -546,7 +546,7 @@ input[type="text"] {
     flex-direction: row;
     gap: 86px;
     padding: 20px 20px 0 20px;
-    overflow-x: hidden;
+   ;
   }
   
   .hour > div:first-child {
